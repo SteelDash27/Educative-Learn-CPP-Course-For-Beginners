@@ -33,6 +33,8 @@ int main(){
         case 7 :
         cout << "Sunday";
         break;
+        default:
+        cout << "Invalid Output";
     }
     return 0;
 }
