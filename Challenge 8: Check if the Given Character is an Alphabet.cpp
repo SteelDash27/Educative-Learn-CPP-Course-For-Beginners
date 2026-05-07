@@ -8,6 +8,7 @@ using namespace std;
 
 int main(){
     char character;
+    
     cout << "Enter in a character : " << endl;
     cin >> character;
 
