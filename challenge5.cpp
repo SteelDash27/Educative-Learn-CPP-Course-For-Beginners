@@ -7,8 +7,10 @@ int main(){
     int hours,minutes,seconds;
 
     seconds = 3870;
+ 
     hours = seconds / 3600;
     seconds = seconds % 3600;
+ 
     minutes = seconds / 60;
     seconds = seconds % 60;
 
