@@ -1,5 +1,5 @@
 #include <iostream>
-//Convert a double value into an integer.   
+//In this challenge, your task is to convert the variable value from double to an int.   
 
 using namespace std;
 
