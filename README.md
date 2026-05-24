@@ -28,12 +28,12 @@ This is a collection of my solutions for every coding challenge and project I ha
 |---|-------|------------|--------|
 | 01 | Introduction | Display Text, Right-Angle Triangle | Complete |
 | 02 | Variables | Initialize & Overwrite, Swap Values | Complete |
-| 03 | Data Types | Convert Double to Integer | Not Started |
-| 04 | Operators | Previous Alphabet, Hours/Minutes/Seconds, Area of Sphere | Not Started |
-| 05 | Conditional Statements | Highest Salary, Check Alphabet, Day of the Week | Not Started |
-| 06 | Loops | Power of Number, Prime Number, Decimal to Binary, Palindrome | Not Started |
-| 07 | Functions | Digits to Text, Smallest Number, Calculator | Not Started |
-| 08 | Recursion | Power Recursively, Count Digits, Fibonacci Number | Not Started |
+| 03 | Data Types | Convert Double to Integer | Complete |
+| 04 | Operators | Previous Alphabet, Hours/Minutes/Seconds, Area of Sphere | Complete |
+| 05 | Conditional Statements | Highest Salary, Check Alphabet, Day of the Week | Complete |
+| 06 | Loops | Power of Number, Prime Number, Decimal to Binary, Palindrome | Complete |
+| 07 | Functions | Digits to Text, Smallest Number, Calculator | Complete |
+| 08 | Recursion | Power Recursively, Count Digits, Fibonacci Number |In Progress |
 | 09 | Arrays | Average Marks, Left Rotate, Sort Descending, Diagonal Sum, Matrix Multiply | Not Started |
 | 10 | Pointers | Area of Rectangle, Sum & Absolute Difference | Not Started |
 | 11 | Dynamic Memory | Odd Elements to -1, Delete at Index | Not Started |
